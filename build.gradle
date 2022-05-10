@@ -4,6 +4,8 @@ plugins {
 }
 
 android {
+	namespace 'tool.compet.livedata'
+
 	compileSdk 31
 
 	defaultConfig {
